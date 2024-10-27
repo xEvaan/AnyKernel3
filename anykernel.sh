@@ -17,7 +17,7 @@ device.name4=RMX2030
 device.name5=RMX1919
 device.name6=r5x
 device.name7=
-supported.versions=10-14
+supported.versions=10-15
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
